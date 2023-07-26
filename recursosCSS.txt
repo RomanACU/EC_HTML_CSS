@@ -1,0 +1,61 @@
+CLI powershell y bash
+https://www.git-tower.com/blog/command-line-cheat-sheet/
+https://flashcards.github.io/command_line/introduction.html
+
+CLI shell
+https://swcarpentry.github.io/shell-novice/
+
+CLI git
+https://www.git-tower.com/blog/git-cheat-sheet-es
+
+https://git-scm.com/
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+*si quieren aprender como se lee la shell CLI
+https://explainshell.com/
+
+
+CSS
+
+https://2019.wattenberger.com/blog/css-cascade
+
+especificidad
+
+https://developer.mozilla.org/es/docs/Web/CSS/Specificity
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#especificidad
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+
+https://specificity.keegan.st/
+
+https://specifishity.com/
+
+https://specifishity.com/specifishity.pdf
+
+https://tympanus.net/codrops/css_reference/
+
+*resetear CSS
+https://www.digitalocean.com/community/tutorials/css-minimal-css-reset
+
+https://meyerweb.com/eric/tools/css/reset/
+
+*paleta de colores para CSS
+
+https://coolors.co/
+
+*mockups web
+
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/1d988676978231.5c7990ca04a2f.png
+
+https://miro.medium.com/v2/resize:fit:2560/1*W4A-8ns2XDsyCKXHLfOxOA.png
+
+Modelo de caja
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model
+
+https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+
+
