@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* boxx-sizing y su valos border-box permite que el elemento contenedor no crezca más del tamaño que le indicamos */
+/* La propiedad min-content permite que la caja se adapte al contenido y así no se desborde */
+
+div {
+    width: min-content;
+    height: min-content;
+    background-color: #f1efeb;
+    margin: 30px;
+    border: 10px solid #52a99f;
+    padding: 1.5em;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    font-weight: lighter;
+    text-align: center;
+}
